@@ -63,7 +63,7 @@ All comparisons are parameter-matched, both models have approximately the same n
 ![BoolQ](results/BoolQ.png)
 
 ### Higgs Boson
-![Higgs](results/Higgs.png)
+![Higgs](results/higgsboson.png)
 
 ---
 
